@@ -1,0 +1,12 @@
+/*
+============================================================================
+ Name        : bld.inf
+ Author      : Kevin
+ Copyright   : Your copyright notice
+ Description : This file provides the information required for building the
+               whole of a ECG_Carbide_FINAL.
+============================================================================
+*/
+
+PRJ_MMPFILES
+ECG_Carbide_FINAL.mmp

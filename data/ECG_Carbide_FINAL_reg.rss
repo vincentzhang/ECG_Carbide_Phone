@@ -1,0 +1,21 @@
+/*
+============================================================================
+ Name        : ECG_Carbide_FINAL_reg.rss
+ Author      : Kevin
+ Copyright   : Your copyright notice
+ Description : This file contains all the resources for the ECG_Carbide_FINAL.
+============================================================================
+*/
+
+#include <appinfo.rh>
+
+UID2 KUidAppRegistrationResourceFile
+UID3 0xE2BAD7ED
+
+RESOURCE APP_REGISTRATION_INFO
+    {
+    app_file = "ECG_Carbide_FINAL";
+    embeddability = KAppNotEmbeddable;
+    newfile = KAppDoesNotSupportNewFile;
+    }
+
